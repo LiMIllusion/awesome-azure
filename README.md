@@ -1,7 +1,7 @@
 # awesome-azure
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%19Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
-[![LICENSE](https://img.shields.io/badge/license-CC-1%201.0-white.svg)](https://github.com/limillusion/awesome-azure/blob/main/LICENSE)
+![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
+[![LICENSE](https://img.shields.io/badge/license-CC0%201.0-white.svg)](https://github.com/limillusion/awesome-azure/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/limillusion/awesome-azure/pulls)
 
 - [awesome-azure](#awesome-azure)
