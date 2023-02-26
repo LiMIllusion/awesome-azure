@@ -33,4 +33,7 @@ A curated list of awesome Microsoft Azure resources like tools, scripts, blogs, 
  - [Azure Academy](https://www.youtube.com/@AzureAcademy/)
  - [John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy)
     - [John Savill's Certifications Study Cram](https://www.youtube.com/playlist?list=PLlVtbbG169nH_CJl4wwKBfS1V8nMYr7xL)
+ 
+ ## Blogs
+  - [Riccardo Corna](https://itspecialist.cloud/) - A Microsoft MVP that talks about Microsoft Cloud tecnologies.
     
